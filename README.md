@@ -7,7 +7,7 @@
 - 🔥 Enthusiastic about **Esports & Chess** for creative thinking
 - 🎯 **Currently Working On:** Designing a FullStack deployment of Industry grade projects
 
- languages and Tools:-
+ ## languages and Tools:-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,py,c,tailwind,postgres,mongodb,nodejs,express,git,github,mysql)](https://skillicons.dev)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkannamreddi&label=Profile%20views&color=000000&style=flat" alt="vivekkannamreddi" /> </p> -->
