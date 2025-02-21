@@ -1,15 +1,14 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-## 👋🏼 Namaste! I'm Vivek Babu (Kannamreddi)
+ I'm Vivek Babu (Kannamreddi)
 
-- 💻 Aspiring **Full-Stack & App Developer**
+- 💻 Aspiring **Full-Stack Developer**
 - 🎓 Student at **Gitam University**
-- 🏆 Passionate about **Web Development, DBMS, and Problem Solving**
+- 🏆 Passionate about **Web Development and Problem Solving**
 - 🔥 Enthusiastic about **Esports & Chess** for creative thinking
-- 🎯 **Currently Working On:** Webpage for Orphans & Employee Management System
+- 🎯 **Currently Working On:** Designing a FullStack deployment of Industry grade projects
 
-## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,java,py,cpp,tailwind,postgres,mongodb,nodejs,express,firebase,git,github,postman,figma)](https://skillicons.dev)
+## 🛠 Skills and Tools:-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,py,cpp,tailwind,postgres,mongodb,nodejs,express,git,github)](https://skillicons.dev)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkannamreddi&label=Profile%20views&color=000000&style=flat" alt="vivekkannamreddi" /> </p> -->
 
@@ -19,4 +18,3 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkannamreddi&langs_count=10&theme=dark) -->
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
